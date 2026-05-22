@@ -108,7 +108,6 @@ philosophy: >
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
 ![Express](https://skillicons.dev/icons?i=express&theme=dark)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
 ![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
 ![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
