@@ -1,316 +1,120 @@
-# noax-portfolio
-My portfolio
 <div align="center">
 
-<!-- HERO SECTION -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn" width="100%"/>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   Designing systems that scale. Building infra that holds.   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<h1>Moshood Qudus (Noax)</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:16213e&height=150&section=header&text=Moshood%20Qudus&fontSize=42&fontColor=6E8EFB&animation=fadeIn&fontAlignY=40&desc=Backend%20%26%20Full%20Stack%20Engineer&descAlignY=62&descSize=18&descColor=c9d1d9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=6E8EFB&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Backend+%26+Full+Stack+Engineer;Scalable+Systems+%7C+Financial+Infrastructure;Distributed+Architecture+%7C+Automation+Platforms;Real-Time+Applications+%7C+Queue-Driven+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6E8EFB&center=true&vCenter=true&width=560&lines=Building+financial+infrastructure+that+doesn't+break;Queue-driven+systems+%7C+Distributed+architecture;Fintech+backend+engineer+based+in+Lagos%2C+Nigeria" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<p align="center" style="max-width: 600px; margin: 0 auto;">
-  I build backend systems that handle scale — from financial pipelines and async job engines<br/>
-  to real-time platforms and authentication infrastructure. I think in queues, schemas, and contracts.
-</p>
-
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=6E8EFB)](https://linkedin.com/in/yourhandle)
-[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=6E8EFB)](https://x.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=6E8EFB)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=6E8EFB)](mailto:your@email.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6E8EFB&label=PROFILE+VIEWS&abbreviated=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E8EFB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16213e?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
----
-
-<!-- ABOUT -->
-
 <br/>
 
-## `$ whoami`
+## About
+
+I build backend systems that hold up under real financial load — queue-driven pipelines, payout engines, and auth infrastructure designed to fail safely at 3am, because eventually they will.
+
+Currently building **Itunu Alajo**, a group savings (ajo/esusu) fintech platform, and **RouteOne**, a scheduled mobility platform for Lagos.
 
 ```yaml
-name:       Noah
-role:       Backend & Full Stack Engineer
-focus:
-  - Scalable backend architecture
-  - Financial infrastructure & automation
-  - Distributed systems & async workers
-  - Production-grade API design
-  - DevOps & cloud engineering (in progress)
-
-currently:
-  - Deepening expertise in distributed systems
-  - Studying cloud-native infrastructure (AWS / GCP)
-  - Exploring AI engineering patterns
-
-philosophy: >
-  Build systems like they'll fail at 3am — because they will.
-  Observability, resilience, and clean contracts aren't optional.
+role:     Backend & Full Stack Engineer
+based in: Lagos, Nigeria
+focus:    Financial infrastructure · Distributed systems · Queue architecture
+learning: Cloud-native infra (AWS/GCP) · Consensus algorithms · AI engineering patterns
 ```
 
 <br/>
 
----
-
-<!-- TECH STACK -->
-
-<br/>
-
-## `$ ls ./tech-stack`
-
-<br/>
-
-**Languages**
-
-![Javascript](https://skillicons.dev/icons?i=js&theme=dark)
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
-![Rust](https://skillicons.dev/icons?i=rust&theme=dark)
-
-
-<br/>
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-
-<br/>
-
-**Backend**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Express](https://skillicons.dev/icons?i=express&theme=dark)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
-![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
- 
-<br/>
-**DevOps / Cloud**
- 
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)
-![Kafka](https://skillicons.dev/icons?i=kafka&theme=dark)
-![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
-![Terraform](https://skillicons.dev/icons?i=terraform&theme=dark)
-![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=dark)
-
-<br/>
-
-**Tools**
-
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
-![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
-
-<br/>
-
----
-
-<!-- PROJECTS -->
-
-<br/>
-
-## `$ cat ./projects`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Financial Automation System
-
-```
-Type  : Queue-Driven Financial Infrastructure
-Stack : Node.js · PostgreSQL · Redis · BullMQ · TypeScript
-```
-
-Production-grade financial backend with a full async pipeline:
-
-- **Payout Engine** — automated disbursement workflows
-- **Transfer Automation** — queued, retryable fund movements
-- **Notification Engine** — event-driven delivery layer
-- **Defaulter & Penalty Engine** — rule-based enforcement system
-- **Async Workers** — BullMQ job processors with retry logic
-- **Observability** — queue dashboards, dead-letter handling
-
-Designed for correctness under failure. Every operation is idempotent, traceable, and recoverable.
-
-</td>
-<td width="50%" valign="top">
-
-### WolfAuth
-
-```
-Type  : Authentication Infrastructure & SDK
-Stack : Node.js · TypeScript · PostgreSQL · Redis
-```
-
-Modern auth infrastructure built for developer ergonomics and production security:
-
-- Modular SDK with clean API surface
-- Session management with Redis-backed token store
-- Role & permission system
-- Refresh token rotation & revocation
-- Designed to drop into any Node.js application
-
-Built to be the auth layer you never have to rebuild.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Vidi Movie Platform
-
-```
-Type  : Content Discovery Platform
-Stack : React · Next.js · TypeScript · TMDb API
-```
-
-Movie discovery experience with a focus on clean UI and fast interactions:
-
-- TMDb API integration — trailers, cast, metadata
-- Swiper-powered carousels and browsing
-- Full search with debounced queries
-- Responsive, dark-first design system
-
-</td>
-<td width="50%" valign="top">
-
-### Code Monkey Platform
-
-```
-Type  : AI-powered Backend CLI/SDK Auditor 
-Stack : Node.js · Socket.io · React · PostgreSQL · Typesript · BullMQ · Redis 
-```
-
-Code Monkey is an AI-powered backend auditing CLI/SDK that helps developers build secure, scalable, and production-ready APIs. 
-It scans backend applications, analyzes routes, middleware, database queries, and architecture patterns to detect missing 
-security layers, scalability risks, and reliability issues, then provides intelligent recommendations and fixes based on expected traffic and DAU.
-
-- AI-powered backend auditing
-- Route and middleware analysis
-- Detects missing rate limiting
-- Detects missing request validation
-- Detects missing authentication/authorization middleware
-- Scalability and performance analysis
-- Production-readiness checks
-- DAU-aware architecture recommendations
-- Security vulnerability detection
-- Database query and async pattern analysis
-- Intelligent fix recommendations
-- CLI and SDK support
-- CI/CD integration ready
-- Modular rule engine architecture
-- AST-based static code analysis
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- GITHUB STATS -->
-
-<br/>
-
-## `$ git log --stat`
-
-<br/>
+## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E8EFB&icon_color=6E8EFB&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6E8EFB&fire=6E8EFB&currStreakLabel=6E8EFB" />
-</td>
-</tr>
-</table>
+**Languages**
+![](https://skillicons.dev/icons?i=js,ts,py,cpp,rust&theme=dark)
 
-<br/>
+**Frontend**
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E8EFB&text_color=c9d1d9&langs_count=8" />
+**Backend**
+![](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma,mongodb&theme=dark)
 
-<br/><br/>
+**DevOps & Cloud**
+![](https://skillicons.dev/icons?i=docker,githubactions,aws,terraform,nginx,kafka&theme=dark)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=6E8EFB&line=6E8EFB&point=ffffff&area=true&hide_border=true" width="90%"/>
+**Tools**
+![](https://skillicons.dev/icons?i=git,postman,figma&theme=dark)
 
 </div>
 
 <br/>
 
----
+## Featured Projects
 
-<!-- ENGINEERING FOCUS -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Financial Automation System**
+<br/>
+<sub>Node.js · PostgreSQL · Redis · BullMQ · TypeScript</sub>
+
+Queue-driven fintech backend — automated payouts, retryable transfer pipelines, a rule-based penalty/defaulter engine, and dead-letter handling for failed jobs. Every operation is idempotent and recoverable.
+
+</td>
+<td width="50%" valign="top">
+
+**WolfAuth**
+<br/>
+<sub>Node.js · TypeScript · PostgreSQL · Redis</sub>
+
+Drop-in authentication infrastructure with a modular SDK, Redis-backed sessions, role/permission system, and refresh token rotation with revocation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Code Monkey**
+<br/>
+<sub>Node.js · Socket.io · React · PostgreSQL · BullMQ</sub>
+
+AI-powered backend auditing CLI/SDK. Uses AST analysis to scan routes and middleware for missing auth, rate limiting, and validation, then gives DAU-aware fix recommendations.
+
+</td>
+<td width="50%" valign="top">
+
+**Vidi**
+<br/>
+<sub>React · Next.js · TypeScript · TMDb API</sub>
+
+Movie discovery app with a dark-first design system, debounced search, and TMDb-powered browsing for trailers, cast, and metadata.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `$ cat ./engineering-focus`
-
-<br/>
-
-<div align="center">
+## Engineering Focus
 
 | Domain | Focus |
 |---|---|
-| `Backend Architecture` | Service design, clean APIs, separation of concerns |
-| `Distributed Systems` | Async messaging, event-driven patterns, consistency models |
-| `Queue Systems` | BullMQ workers, job lifecycles, retry strategies, DLQs |
-| `Financial Infrastructure` | Idempotency, audit trails, payout pipelines, penalty engines |
-| `Authentication Systems` | Session management, token rotation, SDK design |
-| `Scalable APIs` | Rate limiting, pagination, caching strategies, versioning |
-| `DevOps` | Containerization, CI/CD pipelines, deployment hygiene |
-
-</div>
+| Financial Infrastructure | Idempotency, audit trails, payout pipelines, penalty engines |
+| Queue Systems | BullMQ workers, retry strategies, dead-letter queues |
+| Distributed Systems | Async messaging, event-driven patterns, consistency models |
+| Authentication | Session management, token rotation, SDK design |
+| DevOps | CI/CD pipelines, containerization, deployment hygiene |
 
 <br/>
 
----
-
-<!-- LEARNING -->
-
-<br/>
-
-## `$ tail -f ./learning.log`
-
-<br/>
+## `learning.log`
 
 ```diff
 + Cloud Engineering          — AWS core services, IAM, VPC, managed databases
@@ -322,48 +126,31 @@ security layers, scalability risks, and reliability issues, then provides intell
 
 <br/>
 
----
-
-<!-- CONTACT -->
-
-<br/>
-
-## `$ ./contact.sh`
-
-<br/>
+## GitHub Stats
 
 <div align="center">
 
-| Channel | Handle |
-|---|---|
-| LinkedIn | [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle) |
-| X / Twitter | [@yourhandle](https://x.com/yourhandle) |
-| Portfolio | [yourportfolio.dev](https://yourportfolio.dev) |
-| Email | [your@email.com](mailto:your@email.com) |
+<img src="https://github-readme-stats.vercel.app/api?username=Noax89&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E8EFB&icon_color=6E8EFB&text_color=c9d1d9&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noax89&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E8EFB&text_color=c9d1d9&langs_count=6" height="165"/>
 
 <br/>
 
-> Open to backend, fullstack, and infrastructure roles.<br/>
-> Especially interested in fintech, developer tooling, and systems-level work.
+<img src="https://streak-stats.demolab.com/?user=Noax89&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6E8EFB&fire=6E8EFB&currStreakLabel=6E8EFB" width="70%"/>
 
 </div>
 
 <br/>
 
----
+## Let's Connect
 
-<!-- FOOTER -->
+Open to backend, full-stack, and infrastructure roles — especially fintech and developer tooling.
 
 <div align="center">
 
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│   Consistency over brilliance. Systems that hold under load. │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=80&section=footer&animation=fadeIn" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E8EFB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0f0f0f&height=100&section=footer&animation=fadeIn" width="100%"/>
