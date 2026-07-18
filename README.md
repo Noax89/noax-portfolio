@@ -9,9 +9,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6E8EFB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-16213e?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/moshoodqudus7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16213e?style=flat-square&logo=vercel&logoColor=white)](https://noax-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moshoodqudus88@gmail.com)
 
 </div>
 
