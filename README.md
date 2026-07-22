@@ -21,7 +21,7 @@
 
 I build backend systems that hold up under real financial load — queue-driven pipelines, payout engines, and auth infrastructure designed to fail safely at 3am, because eventually they will.
 
-Currently building **Itunu Alajo**, a group savings (ajo/esusu) fintech platform, and **RouteOne**, a scheduled mobility platform for Lagos.
+Currently building **Itsafebox**, a group savings (ajo/esusu) fintech platform, and **RouteOne**, a scheduled mobility platform for Lagos.
 
 ```yaml
 role:     Backend & Full Stack Engineer
